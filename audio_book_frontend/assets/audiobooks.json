@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "description": "A classic collection of detective stories featuring the world-famous Sherlock Holmes.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231996-L.jpg",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "duration_seconds": 239
+  },
+  {
+    "id": "2",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A timeless romance novel exploring manners, upbringing, and marriage in 19th-century England.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "duration_seconds": 310
+  },
+  {
+    "id": "3",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "description": "One of the earliest science fiction novels, telling the story of Victor Frankenstein and his creation.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8281992-L.jpg",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "duration_seconds": 180
+  }
+]
